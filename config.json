@@ -76,7 +76,7 @@
     "glyphs": [
       "--complete"
     ],
-    "extra_args": []
+    "extra_args": [--remove-tag-liga]
   },
   "cn": {
     "enable": true,
